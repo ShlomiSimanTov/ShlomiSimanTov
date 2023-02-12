@@ -28,11 +28,11 @@
   <img src="https://media.giphy.com/media/BoUKRWRO5WHKjEE6Rk/giphy.gif" align='right' width="150px" alt="Wazzup Img"/>
 </p>
   
-- :telescope: I’m working as a Network Administrator in an educational institution.
+- :telescope: Full Stack Developer at Airsoft LTD.
+
+- :seedling: Studying at HackerU Collage.
   
-- :seedling: I'm studying Full Stack Web Development at HackerU Collage.
-  
-- :zap: Exploring JavaScript Content Writing.
+- :zap: Exploring Blockchain Content & Crypto analysis.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shlomi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shlomisimantov/)
   
@@ -41,6 +41,7 @@
 <details>
   <summary><b>🛠️ Languages & Tools</b></summary><br/>
     <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
