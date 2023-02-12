@@ -30,9 +30,9 @@
   
 - :telescope: Full Stack Developer at Airsoft LTD.
 
-- :seedling: Studying at HackerU Collage.
+- :seedling: Studying at 'HackerU' Collage.
   
-- :zap: Exploring Blockchain Content & Crypto analysis.
+- :zap: Exploring Blockchain Content & Crypto Analysis.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shlomi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shlomisimantov/)
   
