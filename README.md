@@ -28,11 +28,11 @@
   <img src="https://media.giphy.com/media/BoUKRWRO5WHKjEE6Rk/giphy.gif" align='right' width="150px" alt="Wazzup Img"/>
 </p>
   
-- :telescope: Full Stack Developer at Airsoft LTD.
+- :zap: Full Stack Developer at Airsoft LTD.
 
-- :seedling: Studying at 'HackerU' Collage.
+- :chart_with_upwards_trend: Crypto Analysis.
   
-- :zap: Exploring Blockchain Content & Crypto Analysis.
+- :telescope: Exploring Blockchain & Web3 Content.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shlomi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shlomisimantov/)
   
