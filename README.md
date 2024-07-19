@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/BoUKRWRO5WHKjEE6Rk/giphy.gif" align='right' width="150px" alt="Wazzup Img"/>
 </p>
   
-- :zap: Full Stack Developer at Airsoft LTD.
+- :zap: Full Stack Developer.
 
 - :chart_with_upwards_trend: Crypto Analysis.
   
